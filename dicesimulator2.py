@@ -246,5 +246,5 @@ while(1<100):
     if(c=="N"):
         print("THANK YOU!")
         break
-t.bye()
+turtle.bye()
 
